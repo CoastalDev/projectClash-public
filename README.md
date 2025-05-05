@@ -6,7 +6,8 @@
 ![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%205.4-blue?logo=unrealengine)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 ![Team](https://img.shields.io/badge/Team-2%20devs-green)
-![License](https://img.shields.io/badge/License-TBD-lightgrey)
+![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue)
+
 
 ---
 
