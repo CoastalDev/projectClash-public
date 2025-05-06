@@ -77,9 +77,8 @@ Expect:
 ---
 
 ## 🌐 Follow Progress
-
-🚧 [Devlog coming soon...]  
-📷 [Screenshots incoming...]  
+ 
+📷 Issues Tab - DevLogs & More.
 🌍 [Website](https://yourwebsite.com)
 
 ---
